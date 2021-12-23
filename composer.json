@@ -1,13 +1,13 @@
 {
-  "name": "eduardostuart/face",
+  "name": "ac-dc/face",
   "keywords": [
     "face detection"
   ],
   "type": "library",
   "require": {
     "php": ">=5.6.4",
-    "guzzlehttp/guzzle": "^6.3",
-    "illuminate/support": "5.4.* || 5.5.* ||  7.*"
+    "guzzlehttp/guzzle": "^6.3 || ^7",
+    "illuminate/support": "5.4.* || 5.5.* ||  7.* || 8.*"
   },
   "require-dev": {
     "graham-campbell/testbench": "^3.4",
